@@ -1,5 +1,3 @@
 # SNOWMAN
 
-<video width="100%" height="240" controls>
-    <source src="assets/images/snowman.mp4" type="video/mp4" />
-</video>
+<img src="https://github.com/LucasAlv3s/ATRIA/blob/master/assets/images/snowman.gif" alt="Snoman" align="center">
